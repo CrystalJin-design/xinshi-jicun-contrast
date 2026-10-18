@@ -1,0 +1,4 @@
+project_id = "xinshi-jicun-contrast"
+
+[functions.jianji]
+verify_jwt = false
